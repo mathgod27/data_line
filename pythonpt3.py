@@ -1,5 +1,3 @@
-
-import numpy as np
 import matplotlib as plt
 
 months = ['Jan', 'Feb', 'Mar', 'April', 'May', 'June', 'July', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']
