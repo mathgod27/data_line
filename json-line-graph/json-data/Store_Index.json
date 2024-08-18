@@ -1,0 +1,40 @@
+{
+    "Store": {
+        "204": {
+            "StoreName": "Aberdeen-204",
+            "SiteNum": "204",
+                "Address": {
+                    "City": "Aberdeen",
+                    "State": "SD",
+                    "Zip": "54321"
+            }
+        },
+        "1207": {
+            "StoreName": "SioxCity-004",
+            "SiteNum": "408",
+            "Address": {
+                "City": "Sioux City",
+                "State": "SD",
+                "Zip": "54322"
+            }
+        },
+        "29": {
+            "StoreName": "Fargo-029",
+            "SiteNum": "029",
+            "Address": {
+                "City": "Fargo",
+                "State": "ND",
+                "Zip": "45321"
+            }
+        },
+        "080": {
+            "StoreName": "Bismarck-080",
+            "SiteNum": "080",
+            "Address": {
+                "City": "Bismarck",
+                "State": "ND",
+                "Zip": "45322"
+            }
+        }
+    }
+}
